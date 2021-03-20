@@ -1,0 +1,18 @@
+.current-player {
+  margin: 10px;
+  text-align: center;
+}
+
+.current-player-stats {
+  color: #000;
+  margin: 10px;
+  border: 1px solid #000;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.current-player div {
+  margin: 10px;
+}
+

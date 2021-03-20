@@ -1,0 +1,20 @@
+button {
+  font-family: inherit;
+  font-size: inherit;
+  text-align: center;
+  color: #fff;
+  background: #000;
+  width: max-content;
+  padding: 10px;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+
+button:hover {
+  background: #fff;
+  cursor: pointer;
+  color: #000;
+  border: 2px solid #000;
+}
+

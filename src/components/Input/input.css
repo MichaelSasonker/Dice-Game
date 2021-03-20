@@ -1,0 +1,12 @@
+input {
+  font-family: inherit;
+  font-size: inherit;
+  color: #000;
+  background-color: #fff;
+  padding: 5px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  text-align: center;
+  height: 50px;
+  width: 100px;
+}
